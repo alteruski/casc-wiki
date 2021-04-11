@@ -1,3 +1,5 @@
+---
+---
 # Contributing to the casc wiki
 
 ## How does it work?
