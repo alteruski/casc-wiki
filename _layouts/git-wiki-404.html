@@ -3,13 +3,12 @@ title: Not Found
 permalink: /404.html
 is_wiki_page: false
 ---
-# what is going on
-<!-- redirect to page creator if not exists 
-<script type="text/javascript">
-    var filename = window.location.pathname.split('/').pop();
-    if (!filename.endsWith(".md"))
-        filename+=".md";
+{% include git-wiki/defines/defines.html %}
 
-    var url = '{{ site.github.repository_url }}/new/{{site.git_branch | escape}}?filename={{ site.wiki_folder | default: 'wiki' }}/'+filename;
-    window.location=url;
-</script> -- >
+<!doctype html>
+<html>
+{% include git-wiki/sections/head/head.html %}
+
+{% include git-wiki/sections/content/body.html %}
+
+</html>
