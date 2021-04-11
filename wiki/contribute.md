@@ -20,4 +20,6 @@ Once you have edited the page to your liking, you can hit the save changes butto
 
 ### Editing pages
 
-Editing pages is similar to almost identical to creating pages except that when editing in prose.io, you need to add a commit message to describe your changes. When you hit the save button, you can right a short summary of why you made the changes that you did to make it easier for people to accept or deny your request. 
+Editing pages is similar to almost identical to creating pages except that when editing in prose.io, you need to add a commit message to describe your changes. When you hit the save button, you can right a short summary of why you made the changes that you did to make it easier for people to accept or deny your request.
+
+**And remember! These changes will not be saved until they are approved! If you would like to be able to aprove these and become a moderator DM on discord.**
