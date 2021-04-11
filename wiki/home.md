@@ -7,5 +7,5 @@ This is a wiki for all things casc. This includes people, things, and jokes conc
 
 ## How to contribute.
 
-If you would like to edit or add pages to the casc wiki, you can learn how in [this comprehensive guide.](contributing)
+If you would like to edit or add pages to the casc wiki, you can learn how in [this comprehensive guide.](contributing.md)
 
