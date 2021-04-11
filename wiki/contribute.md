@@ -1,6 +1,6 @@
 
 # Contributing to the casc wiki
-⚠️Warning!!!⚠️ This is on the verge of nerd shit and if you don't feel like firing more than 7 neurons at once then this may be to much for your peanut brain. I might make a editor later for any of you who can't read more than a paragraph at a time without falling asleep.
+**⚠️Warning!!!⚠️ This is on the verge of nerd shit and if you don't feel like firing more than 7 neurons at once then this may be to much for your peanut brain. I might make a editor later for any of you who can't read more than a paragraph at a time without falling asleep.**
 
 ## How does it work?
 
