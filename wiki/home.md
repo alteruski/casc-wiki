@@ -8,4 +8,4 @@ This is a wiki for all things casc. This includes people, things, and jokes rela
 
 ## How to contribute.
 
-If you would like to edit or add pages to the casc wiki, you can learn how in this comprehensive guide.
+If you would like to edit or add pages to the casc wiki, you can learn how in this [comprehensive guide.](contribute.md)
