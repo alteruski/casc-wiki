@@ -1,5 +1,5 @@
 ---
-redirect_from: /
+[//]: # "redirect_from: /"
 published: true
 ---
 # Welcome to the casc wiki!
